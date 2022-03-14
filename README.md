@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil Mukati 
-- 👀 I’m interested in Computer Sceinces
+- 👀 I’m interested in Computer Sciences
 - 🌱 I’m currently learning Javascript, Git, UNIX.
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me mail at nmukati@qodeleaf.com
